@@ -28,7 +28,7 @@
    - [逢甲大學─黑客社](https://www.facebook.com/HackerSir.tw)
    - 亞洲大學─亞洲白帽駭客社團
    - [中興大學─資訊科學研習社](https://www.facebook.com/it.nchu/)
-   - 東海大學─東海駭客社
+   - [東海大學─東海駭客社](https://www.facebook.com/profile.php?id=100064617557892)
    - 臺中科技大學─資訊研究社
    - 臺中教育大學─白帽社
 - **南投**
